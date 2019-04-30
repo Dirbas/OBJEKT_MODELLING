@@ -1,2 +1,2 @@
-# OBJEKT_MODELLING
+# EateSmart
 Describing the interactive fridge! 
